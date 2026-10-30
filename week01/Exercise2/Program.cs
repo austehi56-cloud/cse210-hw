@@ -40,6 +40,7 @@ class Program
         else
         {
             Console.WriteLine("Better luck next time!");
+        
         }
     }
-}
+} 
